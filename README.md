@@ -35,7 +35,7 @@ O Portainer foi o primeiro passo do projeto, utilizado para gerenciar os contain
 
 ## Nginx Proxy Manager
 
-Implementado como o "porteiro" da rede do laboratório, o Nginx Proxy Manager centraliza o acesso aos serviços através de domínios locais (`.local`), eliminando a necessidade de decorar IP e porta de cada aplicação.
+O Nginx Proxy Manager foi implementado como proxy reverso da infraestrutura, centralizando o acesso aos serviços através de domínios locais (.local), eliminando a necessidade de utilizar IP e porta para cada aplicação.
 
 <img width="1503" height="698" alt="image (1)" src="https://github.com/user-attachments/assets/c67b9268-964b-4deb-93dc-4ca81eb9004f" />
 
